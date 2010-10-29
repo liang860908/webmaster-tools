@@ -14,6 +14,6 @@ Tunnelier这个SSH客户端软件包括提供手动准则的TCP/IP通道以及�
 
 
 Jacky Gee:
-  * 在*Twitter*上加我@JackyGee
-  * *EMail*liang860908@gmail.com
-  * *MyBlog*:jackygee.tk
+  * 在 *Twitter* 上加我@JackyGee
+  * *EMail* :liang860908@gmail.com
+  * *MyBlog* :jackygee.tk
